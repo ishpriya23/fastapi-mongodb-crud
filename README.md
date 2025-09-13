@@ -2,7 +2,7 @@
 A RESTful API built with FastAPI and MongoDB for managing employee data.
 
 ## Features
-- Create, Read, Update, Delete employees
+- Create, Read, Update and Delete employees
 - List employees with pagination & filtering
 - Average salary calculation by department
 - Search employees by skill
